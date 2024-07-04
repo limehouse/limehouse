@@ -1,0 +1,6 @@
+{
+   "baseURL": "https://limehouse.github.io/limehouse/",
+   "languageCode": "en-us",
+   "title": "My New Hugo Site",
+   "theme": "PaperMod"
+}
