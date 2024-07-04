@@ -15,8 +15,8 @@
      }
    },
    "params": {
-     "author": "John Doe",
-     "description": "John Doe's personal website",
+     "author": "Limehouse",
+     "description": "Limehouse's personal website",
      "keywords": "blog,developer,personal",
      "info": [
        "Full Stack DevOps",
@@ -100,6 +100,11 @@
              "name": "Projects",
              "weight": 3,
              "url": "projects/"
+           },
+           {
+             "name": "Docs",
+             "weight": 4,
+             "url": "docs/"
            },
            {
              "name": "Contact me",
